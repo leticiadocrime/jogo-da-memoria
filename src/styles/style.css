@@ -64,11 +64,11 @@ footer {
     flex-direction: column;
     align-items: center;
 	text-align: center;
-    color: #FFF;
+    color: #FF0000;
     font-family: 'Roboto';
 }
 
 footer a {
     text-decoration: none;
-    color: #FFF;
+    color: #FF0000;
 }
